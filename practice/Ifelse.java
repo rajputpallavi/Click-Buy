@@ -1,6 +1,6 @@
 import java.util.*;
 public class Ifelse {
-    public static void main(String[] args) {
+    public static void main(Stringss[] args) {
         Scanner sc=new Scanner(System.in);
         int age=sc.nextInt();
         if(age>=18){
