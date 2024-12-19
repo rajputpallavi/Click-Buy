@@ -40,7 +40,7 @@ System.out.println("2");
         System.out.println(p+" "+q+" "+r);
 
         System.out.println("4");
-        int e=0,f=10;
+       // int e=0,f=10;
        // System.out.println((!(e &&f)));
 
 
